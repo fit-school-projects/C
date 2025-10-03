@@ -1,0 +1,11 @@
+Prikazy:
+Vytvoreno.
+Pridano.
+Vytvoreno.
+Vytvoreno.
+Odebrano.
+Nedostatek zbozi.
+Kusu: 0.
+Kusu: 5.
+Nedostatek zbozi.
+Kusu: 5.

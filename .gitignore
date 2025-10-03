@@ -1,0 +1,5 @@
+**/*.dSYM/*
+**/*.dSYM
+**/*.out
+**/CZE/*_win.txt
+**/.vscode

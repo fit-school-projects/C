@@ -1,0 +1,47 @@
+Optimalizovany seznam:
+ 0. iqTiHRQEwKbjJwvBHXfN -> #5 iqTiHRQEwKbjJwvBHXfN
+ 1. cSzbCoHyntGWgvQPdAAA -> #5 cSzbCoHyntGWgvQPdAAA
+ 2. pZoCAjzUehwVmaKEpwfT -> #5 pZoCAjzUehwVmaKEpwfT
+ 3. KhHoImBbSqCAkZpzdHaN -> #5 KhHoImBbSqCAkZpzdHaN
+ 4. FUSraokFxxFueucRDLSq -> #5 FUSraokFxxFueucRDLSq
+ 5. HUChbNMTtYayYMCSDeKp -> #5 HUChbNMTtYayYMCSDeKp
+ 6. pYlgLRmiNWJwGrQbyVpT -> #5 pYlgLRmiNWJwGrQbyVpT
+ 7. firflYkpRHeAArfIxRXC -> #5 firflYkpRHeAArfIxRXC
+ 8. DmcLpvCFoHXVmKUijgWK -> #5 DmcLpvCFoHXVmKUijgWK
+ 9. WUrUtqEQeypopwcfmbjQ -> #5 WUrUtqEQeypopwcfmbjQ
+ 10. nTmABlTTHYFJstcOSnCa -> #5 nTmABlTTHYFJstcOSnCa
+ 11. fVsIsCurueUgCzuDJEFy -> #5 fVsIsCurueUgCzuDJEFy
+ 12. WGSOCUpmfhbcuMfmLeeM -> #5 WGSOCUpmfhbcuMfmLeeM
+ 13. UeuSRMcjngFPmdtGXaQm -> #5 UeuSRMcjngFPmdtGXaQm
+ 14. kFGuuUNevJjJhaLymWFt -> #5 kFGuuUNevJjJhaLymWFt
+Optimalizovany seznam:
+ 0. cdmhKXkQSoEIgWksMZHz -> #5 cdmhKXkQSoEIgWksMZHz
+ 1. nkAmvXphRrBQnRNdkopr -> #5 nkAmvXphRrBQnRNdkopr
+ 2. JotPhVvnZhPHbzCfDpXq -> #5 JotPhVvnZhPHbzCfDpXq
+ 3. UsrFUeLojWLlbFaIMQSK -> #5 UsrFUeLojWLlbFaIMQSK
+ 4. banSVLnECIYJEnTTTtBX -> #5 banSVLnECIYJEnTTTtBX
+ 5. iNtSYbEEXWBsfjumGCBA -> #5 iNtSYbEEXWBsfjumGCBA
+ 6. pPqzTQKSpwjglTEiZDrL -> #5 pPqzTQKSpwjglTEiZDrL
+ 7. YuarHIPYwalItMKeJURt -> #5 YuarHIPYwalItMKeJURt
+ 8. dLAbpMfKwpEsxfpUlfuF -> #5 dLAbpMfKwpEsxfpUlfuF
+ 9. cdmhKXkQSoEIgWksMZHz -> #5 cdmhKXkQSoEIgWksMZHz
+ 10. nkAmvXphRrBQnRNdkopr -> #5 nkAmvXphRrBQnRNdkopr
+ 11. JotPhVvnZhPHbzCfDpXq -> #5 JotPhVvnZhPHbzCfDpXq
+ 12. UsrFUeLojWLlbFaIMQSK -> #5 UsrFUeLojWLlbFaIMQSK
+ 13. banSVLnECIYJEnTTTtBX -> #5 banSVLnECIYJEnTTTtBX
+ 14. iNtSYbEEXWBsfjumGCBA -> #5 iNtSYbEEXWBsfjumGCBA
+ 15. pPqzTQKSpwjglTEiZDrL -> #5 pPqzTQKSpwjglTEiZDrL
+ 16. YuarHIPYwalItMKeJURt -> #5 YuarHIPYwalItMKeJURt
+ 17. dLAbpMfKwpEsxfpUlfuF -> #5 dLAbpMfKwpEsxfpUlfuF
+Optimalizovany seznam:
+ 0. ayVKYLSXaWUixgcpsmIx -> #0 ayVKYLSXaWUixgcpsmIx
+ 1. NTMrwFvETuIqeLLOlsEH -> #1 NTMrwFvETuIqeLLOlsEH
+Optimalizovany seznam:
+ 0. QIErGRkAUrwtzjutnMyi -> #2 QIErGRkAUrwtzjutnMyi
+ 1. KovoaeYgxyMHNuTBGHpd -> #2 KovoaeYgxyMHNuTBGHpd
+ 2. kHhtEURyzgHjdphwUWyr -> #2 kHhtEURyzgHjdphwUWyr
+ 3. ILEwHxciOomAqXgKcRQS -> #2 ILEwHxciOomAqXgKcRQS
+ 4. yBgtBkSGixLGnkHFdNdF -> #2 yBgtBkSGixLGnkHFdNdF
+Optimalizovany seznam:
+ 0. TDVKMEBGjYbSDLGyTwxi -> #3 TDVKMEBGjYbSDLGyTwxi
+ 1. FrxJhMmRlPBApKNbHqfc -> #3 FrxJhMmRlPBApKNbHqfc
